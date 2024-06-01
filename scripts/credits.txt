@@ -1,0 +1,26 @@
+"credits.txt"
+{
+	"OutroCreditsNames"
+	{
+		"Platformer Source"	"CreditsOutroLogos"
+		" "	"CreditsOutroText"
+		" "	"CreditsOutroText"
+		" "	"CreditsOutroText"
+		" "	"CreditsOutroText"
+		"Director"	"CreditsOutroText"
+		"Ian ''Gorilli09'' Naftzger"	"CreditsOutroText"
+		" "	"CreditsOutroText"
+		" "	"CreditsOutroText"
+		" "	"CreditsOutroText"
+		" "	"CreditsOutroText"
+		"Special thanks:"	"CreditsOutroText"
+		" "	"CreditsOutroText"
+		" "	"CreditsOutroText"
+		" "	"CreditsOutroText"
+		" "	"CreditsOutroText"
+		"Source engine (C) Valve Software"	"CreditsOutroText"
+		"Havok (C) Microsoft"	"CreditsOutroText"
+		"FMOD (C) Firelight Technologies"	"CreditsOutroText"
+		"Bink Video (C) Epic Games Tools"	"CreditsOutroText"
+	}
+}
