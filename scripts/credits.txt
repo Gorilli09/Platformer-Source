@@ -2,7 +2,7 @@
 {
 	"OutroCreditsNames"
 	{
-		"Platformer Source"	"CreditsOutroLogos"
+		"Untitled Source Mod"	"CreditsOutroLogos"
 		" "	"CreditsOutroText"
 		" "	"CreditsOutroText"
 		" "	"CreditsOutroText"
