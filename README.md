@@ -1,4 +1,4 @@
-Platformer Source is a mod for Valve's Source engine. It is basically a 3D platformer.
+Untitled Source Mod is a mod for Valve's Source engine. It is supposed to be third-person.
 
 To do:
 * Hire programmers
